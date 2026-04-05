@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リフレクトサイン (2022 Ver.)",
+  "base_artist": "Team.Luna",
+  "createdAt": "2026-04-05T01:28:12.407919Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リフレクトサイン",
+      "artist": "Team.Luna",
+      "has_synced": false,
+      "path": "select/pl_01_リフレクトサイン_Team.Luna.txt"
+    }
+  ]
+}
